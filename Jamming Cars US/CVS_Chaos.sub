@@ -1,6 +1,6 @@
 Filetype: Flipper SubGhz RAW File
 Version: 1
-# generated with ook_to_sub.py, CVS stands for vehicle control system jams unlock / lock not tested, but it may cause jamming to other moduels of the car only on new models. it also works for Aus to
+# CVS stands for vehicle control system jams unlock / lock not tested, but it may cause jamming to other moduels of the car only on new models. it also works for Aus to
 Frequency: 433920000
 Preset: FuriHalSubGhzPresetOok650Async
 Protocol: RAW
